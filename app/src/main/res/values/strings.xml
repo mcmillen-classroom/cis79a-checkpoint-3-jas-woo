@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckPoint3</string>
+
+    <string name="mcquestion_1"></string>
+    <string name="mcquestion_2"></string>
+
+</resources>
