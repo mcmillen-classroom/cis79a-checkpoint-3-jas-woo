@@ -32,7 +32,7 @@ public class MultipleChoiceQuestion extends Question
     public boolean readInputAndCheckAnswer(Scanner input)
     {
         System.out.println("Enter answer: ");
-        String in = input.nextLine();
+        int in = input.nextInt();
         return checkAnswer(in);
     }
 }
